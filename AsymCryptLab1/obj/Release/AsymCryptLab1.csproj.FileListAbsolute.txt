@@ -1,0 +1,6 @@
+C:\Users\PRIDE\source\repos\AsymCryptLab1\AsymCryptLab1\bin\Release\AsymCryptLab1.exe.config
+C:\Users\PRIDE\source\repos\AsymCryptLab1\AsymCryptLab1\bin\Release\AsymCryptLab1.exe
+C:\Users\PRIDE\source\repos\AsymCryptLab1\AsymCryptLab1\bin\Release\AsymCryptLab1.pdb
+C:\Users\PRIDE\source\repos\AsymCryptLab1\AsymCryptLab1\obj\Release\AsymCryptLab1.csprojAssemblyReference.cache
+C:\Users\PRIDE\source\repos\AsymCryptLab1\AsymCryptLab1\obj\Release\AsymCryptLab1.exe
+C:\Users\PRIDE\source\repos\AsymCryptLab1\AsymCryptLab1\obj\Release\AsymCryptLab1.pdb

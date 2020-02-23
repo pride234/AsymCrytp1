@@ -1,0 +1,600 @@
+--C# pseudo-random generator is working...-------------------------------------------
+
+I. Uniform analysis is requested...-----------------------------------------------------------
+
+Chi-Square is: 259,590885816692
+
+0) When alpha = 0,01, Chi-Square_alpha = 307,52847570604
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 292,149330411193
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 283,951636223191
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+II. Indepence analysis is requested...-----------------------------------------------------------
+
+Chi-Square is: 64595,926584517
+
+0) When alpha = 0,01, Chi-Square_alpha = 65863,8124902503
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is independent should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 65618,2272340765
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is independent should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 65487,3205556754
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is independent should not be descarded.
+
+III. Homogeneity analysis for r = 10 is requested...-----------------------------------------------------------
+
+Chi-Square is: 2392,21452696303
+
+0) When alpha = 0,01, Chi-Square_alpha = 2452,58542711812
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 2406,44799123358
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 2381,85490866957
+
+Since Chi-Square is more than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 should be descarded.
+
+LemerLow generator is working...---------------------------------------------
+
+I. Uniform analysis is requested...-----------------------------------------------------------
+
+Chi-Square is: 0,0163850486431132
+
+0) When alpha = 0,01, Chi-Square_alpha = 307,52847570604
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 292,149330411193
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 283,951636223191
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+II. Indepence analysis is requested...-----------------------------------------------------------
+
+Chi-Square is: 63500000
+
+0) When alpha = 0,01, Chi-Square_alpha = 65863,8124902503
+
+Since Chi-Square is more than Chi-Square_alpha, hypothesis that random sequence is independent should be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 65618,2272340765
+
+Since Chi-Square is more than Chi-Square_alpha, hypothesis that random sequence is independent should be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 65487,3205556754
+
+Since Chi-Square is more than Chi-Square_alpha, hypothesis that random sequence is independent should be descarded.
+
+III. Homogeneity analysis for r = 10 is requested...-----------------------------------------------------------
+
+Chi-Square is: 1,5237214538999
+
+0) When alpha = 0,01, Chi-Square_alpha = 2452,58542711812
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 2406,44799123358
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 2381,85490866957
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+LemerHigh generator is working...---------------------------------------------
+
+I. Uniform analysis is requested...-----------------------------------------------------------
+
+Chi-Square is: 27,0040962621608
+
+0) When alpha = 0,01, Chi-Square_alpha = 307,52847570604
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 292,149330411193
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 283,951636223191
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+II. Indepence analysis is requested...-----------------------------------------------------------
+
+Chi-Square is: 64978,5928251302
+
+0) When alpha = 0,01, Chi-Square_alpha = 65863,8124902503
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is independent should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 65618,2272340765
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is independent should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 65487,3205556754
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is independent should not be descarded.
+
+III. Homogeneity analysis for r = 10 is requested...-----------------------------------------------------------
+
+Chi-Square is: 1057,21915470069
+
+0) When alpha = 0,01, Chi-Square_alpha = 2452,58542711812
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 2406,44799123358
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 2381,85490866957
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+--L20 generator is working...----------------------------------------------------
+
+I. Uniform analysis is requested...-----------------------------------------------------------
+
+Chi-Square is: 12,5284178187404
+
+0) When alpha = 0,01, Chi-Square_alpha = 307,52847570604
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 292,149330411193
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 283,951636223191
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+II. Indepence analysis is requested...-----------------------------------------------------------
+
+Chi-Square is: 34046,9059974641
+
+0) When alpha = 0,01, Chi-Square_alpha = 65863,8124902503
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is independent should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 65618,2272340765
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is independent should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 65487,3205556754
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is independent should not be descarded.
+
+III. Homogeneity analysis for r = 10 is requested...-----------------------------------------------------------
+
+Chi-Square is: 2292,41845389261
+
+0) When alpha = 0,01, Chi-Square_alpha = 2452,58542711812
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 2406,44799123358
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 2381,85490866957
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+--L89 generator is working...----------------------------------------------------
+
+I. Uniform analysis is requested...-----------------------------------------------------------
+
+Chi-Square is: 244,081925243216
+
+0) When alpha = 0,01, Chi-Square_alpha = 307,52847570604
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 292,149330411193
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 283,951636223191
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+II. Indepence analysis is requested...-----------------------------------------------------------
+
+Chi-Square is: 64125,8320354616
+
+0) When alpha = 0,01, Chi-Square_alpha = 65863,8124902503
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is independent should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 65618,2272340765
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is independent should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 65487,3205556754
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is independent should not be descarded.
+
+III. Homogeneity analysis for r = 10 is requested...-----------------------------------------------------------
+
+Chi-Square is: 2244,27237536329
+
+0) When alpha = 0,01, Chi-Square_alpha = 2452,58542711812
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 2406,44799123358
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 2381,85490866957
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+Geffe generator is working...------------------------------------------------------------
+
+I. Uniform analysis is requested...-----------------------------------------------------------
+
+Chi-Square is: 251,612391193036
+
+0) When alpha = 0,01, Chi-Square_alpha = 307,52847570604
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 292,149330411193
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 283,951636223191
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+II. Indepence analysis is requested...-----------------------------------------------------------
+
+Chi-Square is: 124384,109760157
+
+0) When alpha = 0,01, Chi-Square_alpha = 65863,8124902503
+
+Since Chi-Square is more than Chi-Square_alpha, hypothesis that random sequence is independent should be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 65618,2272340765
+
+Since Chi-Square is more than Chi-Square_alpha, hypothesis that random sequence is independent should be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 65487,3205556754
+
+Since Chi-Square is more than Chi-Square_alpha, hypothesis that random sequence is independent should be descarded.
+
+III. Homogeneity analysis for r = 10 is requested...-----------------------------------------------------------
+
+Chi-Square is: 2255,97513252351
+
+0) When alpha = 0,01, Chi-Square_alpha = 2452,58542711812
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 2406,44799123358
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 2381,85490866957
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+Librarian generator is working...----------------------------------------
+
+I. Uniform analysis is requested...-----------------------------------------------------------
+
+Chi-Square is: 16907814,734255
+
+0) When alpha = 0,01, Chi-Square_alpha = 307,52847570604
+
+Since Chi-Square is more than Chi-Square_alpha, hypothesis that random sequence is uniform should be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 292,149330411193
+
+Since Chi-Square is more than Chi-Square_alpha, hypothesis that random sequence is uniform should be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 283,951636223191
+
+Since Chi-Square is more than Chi-Square_alpha, hypothesis that random sequence is uniform should be descarded.
+
+II. Indepence analysis is requested...-----------------------------------------------------------
+
+Chi-Square is: 1320987,87763448
+
+0) When alpha = 0,01, Chi-Square_alpha = 65863,8124902503
+
+Since Chi-Square is more than Chi-Square_alpha, hypothesis that random sequence is independent should be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 65618,2272340765
+
+Since Chi-Square is more than Chi-Square_alpha, hypothesis that random sequence is independent should be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 65487,3205556754
+
+Since Chi-Square is more than Chi-Square_alpha, hypothesis that random sequence is independent should be descarded.
+
+III. Homogeneity analysis for r = 10 is requested...-----------------------------------------------------------
+
+Chi-Square is: 38008649,947573
+
+0) When alpha = 0,01, Chi-Square_alpha = 2452,58542711812
+
+Since Chi-Square is more than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 should be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 2406,44799123358
+
+Since Chi-Square is more than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 should be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 2381,85490866957
+
+Since Chi-Square is more than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 should be descarded.
+
+Wolfram generator is working...------------------------------------------------------------
+
+I. Uniform analysis is requested...-----------------------------------------------------------
+
+Chi-Square is: 2424,87557603687
+
+0) When alpha = 0,01, Chi-Square_alpha = 307,52847570604
+
+Since Chi-Square is more than Chi-Square_alpha, hypothesis that random sequence is uniform should be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 292,149330411193
+
+Since Chi-Square is more than Chi-Square_alpha, hypothesis that random sequence is uniform should be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 283,951636223191
+
+Since Chi-Square is more than Chi-Square_alpha, hypothesis that random sequence is uniform should be descarded.
+
+II. Indepence analysis is requested...-----------------------------------------------------------
+
+Chi-Square is: 612563,705136405
+
+0) When alpha = 0,01, Chi-Square_alpha = 65863,8124902503
+
+Since Chi-Square is more than Chi-Square_alpha, hypothesis that random sequence is independent should be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 65618,2272340765
+
+Since Chi-Square is more than Chi-Square_alpha, hypothesis that random sequence is independent should be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 65487,3205556754
+
+Since Chi-Square is more than Chi-Square_alpha, hypothesis that random sequence is independent should be descarded.
+
+III. Homogeneity analysis for r = 10 is requested...-----------------------------------------------------------
+
+Chi-Square is: 146,756764935363
+
+0) When alpha = 0,01, Chi-Square_alpha = 2452,58542711812
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 2406,44799123358
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 2381,85490866957
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+BM generator is working...--------------------------------------------------------
+
+I. Uniform analysis is requested...-----------------------------------------------------------
+
+Chi-Square is: 247,852459016393
+
+0) When alpha = 0,01, Chi-Square_alpha = 307,52847570604
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 292,149330411193
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 283,951636223191
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+II. Indepence analysis is requested...-----------------------------------------------------------
+
+Chi-Square is: 64952,1021084275
+
+0) When alpha = 0,01, Chi-Square_alpha = 65863,8124902503
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is independent should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 65618,2272340765
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is independent should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 65487,3205556754
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is independent should not be descarded.
+
+III. Homogeneity analysis for r = 10 is requested...-----------------------------------------------------------
+
+Chi-Square is: 2391,19081134392
+
+0) When alpha = 0,01, Chi-Square_alpha = 2452,58542711812
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 2406,44799123358
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 2381,85490866957
+
+Since Chi-Square is more than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 should be descarded.
+
+BM_Bytes generator is working...--------------------------------------------------------
+
+I. Uniform analysis is requested...-----------------------------------------------------------
+
+Chi-Square is: 275,151639344262
+
+0) When alpha = 0,01, Chi-Square_alpha = 307,52847570604
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 292,149330411193
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 283,951636223191
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+II. Indepence analysis is requested...-----------------------------------------------------------
+
+Chi-Square is: 64984,1893039185
+
+0) When alpha = 0,01, Chi-Square_alpha = 65863,8124902503
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is independent should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 65618,2272340765
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is independent should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 65487,3205556754
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is independent should not be descarded.
+
+III. Homogeneity analysis for r = 10 is requested...-----------------------------------------------------------
+
+Chi-Square is: 2295,77382491883
+
+0) When alpha = 0,01, Chi-Square_alpha = 2452,58542711812
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 2406,44799123358
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 2381,85490866957
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+BBS generator is working....................................................................
+
+I. Uniform analysis is requested...-----------------------------------------------------------
+
+Chi-Square is: 274,306195596518
+
+0) When alpha = 0,01, Chi-Square_alpha = 307,52847570604
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 292,149330411193
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 283,951636223191
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+II. Indepence analysis is requested...-----------------------------------------------------------
+
+Chi-Square is: 65367,8430546483
+
+0) When alpha = 0,01, Chi-Square_alpha = 65863,8124902503
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is independent should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 65618,2272340765
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is independent should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 65487,3205556754
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is independent should not be descarded.
+
+III. Homogeneity analysis for r = 10 is requested...-----------------------------------------------------------
+
+Chi-Square is: 2259,27788124958
+
+0) When alpha = 0,01, Chi-Square_alpha = 2452,58542711812
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 2406,44799123358
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 2381,85490866957
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+BBS generator is working....................................................................
+
+I. Uniform analysis is requested...-----------------------------------------------------------
+
+Chi-Square is: 234,111623143881
+
+0) When alpha = 0,01, Chi-Square_alpha = 307,52847570604
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 292,149330411193
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 283,951636223191
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is uniform should not be descarded.
+
+II. Indepence analysis is requested...-----------------------------------------------------------
+
+Chi-Square is: 65247,4553783128
+
+0) When alpha = 0,01, Chi-Square_alpha = 65863,8124902503
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is independent should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 65618,2272340765
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is independent should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 65487,3205556754
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is independent should not be descarded.
+
+III. Homogeneity analysis for r = 10 is requested...-----------------------------------------------------------
+
+Chi-Square is: 2341,38807886408
+
+0) When alpha = 0,01, Chi-Square_alpha = 2452,58542711812
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+1) When alpha = 0,05, Chi-Square_alpha = 2406,44799123358
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
+2) When alpha = 0,1, Chi-Square_alpha = 2381,85490866957
+
+Since Chi-Square is less or equal than Chi-Square_alpha, hypothesis that random sequence is homogeneous for r = 10 for should not be descarded.
+
